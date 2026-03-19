@@ -1,4 +1,4 @@
-# puissance_4
+
 # 🧬 Jeu de la Vie – Simulation en Tkinter
 
 Ce projet est une implémentation graphique du célèbre **Jeu de la Vie** de Conway en Python, utilisant la bibliothèque **Tkinter** pour l'interface graphique.
